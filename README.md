@@ -14,7 +14,7 @@ Here are some of my notable projects:
 
 - [Project 1](titanic.ipynb): Analysing the titanic diaster for the survivals based on Fare, Class and age variables.
 - [Project 2](Food hub project_SK.ipynb)
-- [Project 3](link_to_project_3): Short description.
+
 
 ## Get in Touch
 
