@@ -12,13 +12,13 @@ I'm a Research Scientist based in Cambridge. My interests range from Drug Target
 
 Here are some of my notable projects:
 
-- [Project 1](link_to_project_1): Short description.
-- [Project 2](link_to_project_2): Short description.
+- [Project 1](titanic.ipynb): Analysing the titanic diaster for the survivals based on Fare, Class and age variables.
+- [Project 2](Food hub project_SK.ipynb)
 - [Project 3](link_to_project_3): Short description.
 
 ## Get in Touch
 
-- LinkedIn: [My LinkedIn Profile](link_to_linkedin)
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/sahithi-kuravi-430068b1)
 - Twitter: [@MyTwitterHandle](link_to_twitter)
 - Website: [My Website](link_to_website)
 
